@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### Poker Web App 
+An [offline only](https://xccn-xccn.github.io/Poker/) version of my poker app 
 ### Mini Projects
 A collection of [small projects](https://xccn-xccn.github.io/mini_projects_site/) with a simple web UI
 <!--
