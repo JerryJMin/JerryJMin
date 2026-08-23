@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### Mini Projects
+A collection of [small projects](https://xccn-xccn.github.io/mini_projects_site/) with a simple UI
 <!--
 **xccn-xccn/xccn-xccn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
