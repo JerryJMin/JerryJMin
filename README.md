@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ### Poker Web App 
-An [offline only](https://xccn-xccn.github.io/Poker/) version of my poker app 
+An [offline only](https://jerryjmin.github.io/Poker/) version of my poker app 
 ### Mini Projects
-A collection of [small projects](https://xccn-xccn.github.io/mini_projects_site/) with a simple web UI
+A collection of [small projects](https://jerryjmin.github.io/mini_projects_site/) with a simple web UI
 <!--
 **xccn-xccn/xccn-xccn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
