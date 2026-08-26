@@ -8,7 +8,7 @@ I enjoy making projects, solving [codewars](https://www.codewars.com/users/xcn) 
 
 Some projects that I have created web apps for:
 ### Poker Web App 
-An [offline only](https://jerryjmin.github.io/Poker/) version of my poker app 
+An [offline only](https://jerryjmin.github.io/Poker/) version of my poker app. (May take up to a minute to load)
 ### Mini Projects
 A closed source collection of [small projects](https://jerryjmin.github.io/mini_projects_site/) with a simple web UI
 
