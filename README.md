@@ -10,7 +10,7 @@ Some projects that I have created web apps for:
 ### Poker Web App 
 An [offline only](https://jerryjmin.github.io/Poker/) version of my poker app 
 ### Mini Projects
-A collection of [small projects](https://jerryjmin.github.io/mini_projects_site/) with a simple web UI
+A closed source collection of [small projects](https://jerryjmin.github.io/mini_projects_site/) with a simple web UI
 
 
 <!--
