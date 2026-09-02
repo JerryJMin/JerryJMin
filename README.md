@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a first year Computer Science student at the University of Cambridge (Churchill College) <br/>
+I'm a first year Computer Science student at the University of Cambridge - Churchill College <br/>
 I enjoy making projects, solving [codewars](https://www.codewars.com/users/xcn) problems and going to the gym.
 
 - 🔭 I’m working on improving my poker bot in my poker project
