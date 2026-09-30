@@ -4,7 +4,7 @@ I'm a first year Computer Science student at the University of Cambridge - Churc
 I enjoy making projects, solving [codewars](https://www.codewars.com/users/xcn) problems and going to the gym.
 
 - 🔭 I’m working on improving my poker bot in my poker project
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning C++
 
 Some projects that I have created web apps for:
 ### Poker Web App 
